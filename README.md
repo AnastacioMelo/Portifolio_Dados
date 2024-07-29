@@ -2,6 +2,6 @@
 __________________________________________________________
 
 Bibliotecas Utilizadas:
-*Pandas
-*NumPy
-*matplotlib 
+*  Pandas
+*  NumPy
+*  matplotlib 

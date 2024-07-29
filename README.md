@@ -3,4 +3,4 @@
 Bibliotecas Utilizadas:
 *  Pandas
 *  NumPy
-*  matplotlib 
+*  Matplotlib 
